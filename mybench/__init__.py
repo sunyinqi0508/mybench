@@ -1,2 +1,2 @@
 
-import bench
+from mybench import bench

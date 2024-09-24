@@ -10,4 +10,4 @@ class CustomREPL(code.InteractiveConsole):
         print(f"Execution time: {execution_time:.6f} seconds")
         return result
 repl = CustomREPL()
-repl.interact("Custom Python Interpreter with Execution Time")
+repl.interact("Interpreter with Execution Time")
